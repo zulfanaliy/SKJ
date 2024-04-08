@@ -1,0 +1,1949 @@
+1
+000327,417 -- 000329,667
+Pagi, Gus, sobatku yang bersirip satu.
+
+2
+000330,250 -- 000333,708
+Halo, Bu. Ini aku. Cuma mau mengabari.
+
+3
+000333,792 -- 000337,625
+Aku sudah terima kartu posnya,
+sedang aku pasang di akuarium Gus.
+
+4
+000337,708 -- 000340,542
+Ya, bagus sekali. Namun, dia kesal.
+
+5
+000340,625 -- 000343,792
+Dia heran kenapa aku tidak pernah
+mengajaknya pergi.
+
+6
+000343,875 -- 000345,167
+Mungkin nanti, ya
+
+7
+000345,250 -- 000348,417
+Dia mau keluar,
+tetapi susah dengan satu sirip, ya
+
+8
+000348,500 -- 000351,417
+Kabarku baik, Bu. Lumayan.
+
+9
+000351,500 -- 000354,750
+Masih bangun setiap pagi
+merasa seperti baru ditabrak bus.
+
+10
+000355,375 -- 000356,583
+Jika Ibu...
+
+11
+000357,458 -- 000400,458
+Hei, kawan, masih berjualan
+sikat dan sapu, ya
+
+12
+000401,250 -- 000404,750
+Tepat di depan pintuku.
+Tidak apa-apa. Sampai jumpa.
+
+13
+000405,625 -- 000407,167
+Maaf tak jawab telepon Ibu.
+
+14
+000407,250 -- 000409,875
+Aku telepon lagi besok. Sampai jumpa.
+
+15
+000413,125 -- 000415,083
+Oh, astaga. Tunggu!
+
+16
+000415,917 -- 000417,083
+Sial.
+
+17
+000430,208 -- 000431,167
+Bersulang.
+
+18
+000434,875 -- 000436,417
+MESIR KUNO
+
+19
+000442,292 -- 000443,750
+Coba lihat.
+
+20
+000444,583 -- 000445,708
+Ada yang mengira
+
+21
+000445,792 -- 000447,833
+piramida Giza adalah tempat sampah.
+
+22
+000448,208 -- 000450,083
+Lagi pula di sana kosong.
+
+23
+000450,667 -- 000452,375
+Ya. Mungkin tidak.
+
+24
+000453,125 -- 000455,125
+Namun di sana
+
+25
+000456,417 -- 000457,917
+Ada sesuatu yang jahat.
+
+26
+000458,750 -- 000502,917
+Coba lihat. Mereka pakai
+kail logam besar, oke
+
+27
+000503,000 -- 000505,125
+Mereka masukkan
+ke lubang hidung dan...
+
+28
+000506,208 -- 000508,917
+Semua organ akan keluar.
+Kecuali jantungnya.
+
+29
+000509,000 -- 000510,167
+Kenapa begitu
+
+30
+000510,250 -- 000512,042
+Mereka percaya kau perlu hatimu
+
+31
+000512,125 -- 000513,917
+untuk dihakimi di Dunia Bawah
+
+32
+000514,000 -- 000518,125
+dan cuma yang paling layak yang
+boleh melewati Padang Alang-alang.
+
+33
+000518,208 -- 000521,833
+Apakah menyebalkan rasanya
+Ditolak dari Padang Alang-alang
+
+34
+000521,917 -- 000524,792
+Itu tidak masuk akal
+karena aku belum mati, ya
+
+35
+000524,875 -- 000526,042
+-Stevie.
+-Apa aku...
+
+36
+000526,125 -- 000530,000
+-Jangan bilang itu kau lagi.
+-Maaf, Donna. Ya, maaf. Oke.
+
+37
+000531,167 -- 000532,167
+Baiklah.
+
+38
+000532,958 -- 000535,167
+Entah berapa kali
+aku harus bilang kepadamu.
+
+39
+000535,250 -- 000537,375
+Kau bukan pemandu wisata, Stevie.
+
+40
+000537,458 -- 000540,625
+Steven, yang benar. Aku... Steven.
+
+41
+000540,792 -- 000541,833
+Bukan, kau merugikan
+
+42
+000541,917 -- 000544,417
+kecuali kau melakukan pekerjaanmu,
+
+43
+000544,500 -- 000546,625
+yaitu menjual ini kepada anak-anak.
+
+44
+000548,625 -- 000549,542
+Baik.
+
+45
+000555,042 -- 000556,000
+Halo.
+
+46
+000556,208 -- 000558,833
+-Halo.
+-Bagaimana bisnis gulanya
+
+47
+000558,917 -- 000601,250
+Aku tidak tahu
+apa kaitannya ini dengan Mesir.
+
+48
+000601,333 -- 000603,625
+Dahulu mereka
+tidak punya ini, bukan Tidak.
+
+49
+000603,708 -- 000606,500
+Mereka suka buah ara dan kurma, dan...
+
+50
+000606,583 -- 000610,125
+Tur berikutnya datang tapi aku cuma
+mau tanya, besok pukul 19.00 jadi
+
+51
+000611,625 -- 000615,333
+- 19.00 besok
+- Steik terbaik di kota ini
+
+52
+000615,667 -- 000618,167
+-Ya. Benar.
+-Ya Oke.
+
+53
+000619,125 -- 000620,625
+Maaf. Namun...
+
+54
+000621,500 -- 000623,917
+-Apa
+-Apa kau mengajakku kencan
+
+55
+000627,208 -- 000629,917
+Kau lucu. Sampai jumpa.
+
+56
+000631,500 -- 000635,167
+Stevie, dasar nakal. Aku tidak tahu
+kau sudah mengajaknya kencan.
+
+57
+000635,625 -- 000636,833
+Aku juga tidak tahu.
+
+58
+000637,417 -- 000639,000
+Sebentar, apa dia bilang steik
+
+59
+000639,083 -- 000641,875
+Apa yang akan dimakan
+seorang vegan di restoran steik
+
+60
+000641,958 -- 000644,292
+Entahlah, Donna. Selada Roti
+
+61
+000645,417 -- 000649,208
+Ya, aku mengerti kenapa dia mau pergi.
+Kau sungguh menarik.
+
+62
+000655,417 -- 000658,250
+-Boleh tolong angkat kuda nil itu
+-Ya, tentu saja.
+
+63
+000658,333 -- 000702,417
+Taweret. Sang kuda nil, Dewi Taweret.
+Donna, aku jadi ingat.
+
+64
+000702,500 -- 000705,042
+Waktu aku sampai tadi,
+aku lihat spanduk di luar.
+
+65
+000705,125 -- 000707,208
+Itu sebabnya kau terlambat masuk lagi
+
+66
+000707,292 -- 000708,292
+Bukan. Maafkan aku.
+
+67
+000708,375 -- 000710,167
+-Busnya terlewat...
+-Sudah tiga kali
+
+68
+000710,250 -- 000712,167
+-kau terlambat.
+-Aku tahu.
+
+69
+000712,250 -- 000715,042
+Jadi, kau urus inventaris pekan ini.
+Kerja bagus.
+
+70
+000715,375 -- 000716,917
+Baiklah. Siap, Kapten.
+
+71
+000717,583 -- 000721,333
+Namun, bukan. Aku mau bilang kalau
+spanduk dan poster para Ennead...
+
+72
+000721,417 -- 000722,792
+-Para apa
+-Para Ennead
+
+73
+000723,167 -- 000725,208
+Kau tahu, kelompok super
+dewa-dewi Mesir
+
+74
+000725,292 -- 000728,542
+-Ada Horus, Osiris, Tefnut...
+-Cukup, tolong.
+
+75
+000728,625 -- 000732,458
+Kalau kau pikir ini semacam audisi
+aneh pemandu wisata, jawabannya tidak.
+
+76
+000732,542 -- 000735,542
+Bukan. Aku sedang...
+Sakit sekali mendengar itu.
+
+77
+000735,625 -- 000737,667
+Namun, apa yang aku coba katakan...
+
+78
+000737,750 -- 000741,250
+Aku tidak bermaksud mengkritik tim
+pemasaran, tetapi ada kekeliruan
+
+79
+000741,333 -- 000744,250
+karena cuma tujuh dewa di sini,
+dan Ennead ada sembilan.
+
+80
+000744,333 -- 000746,292
+Aku pecat dua karena terlambat.
+
+81
+000746,375 -- 000751,167
+Dengar, kalau tidak bisa diam,
+aku akan mengurungmu dalam sarkofagus.
+
+82
+000751,250 -- 000754,083
+Bilang kepada firaun
+apa yang salah dengan poster itu.
+
+83
+000755,208 -- 000756,833
+-Pergi.
+-Baiklah.
+
+84
+000757,917 -- 000800,167
+-Pergi. Sekarang. Biarkan saja.
+-Ya. Maaf.
+
+85
+000800,250 -- 000803,167
+Tinggalkan saja. Pergi.
+Menjauh dariku.
+
+86
+000803,250 -- 000804,750
+Baik, senang bicara denganmu.
+
+87
+000811,875 -- 000815,042
+-Hei. Selamat malam, J.B.
+-Selamat malam, Scotty.
+
+88
+000815,375 -- 000817,292
+-Sampai jumpa, Kawan.
+-Scotty
+
+89
+000819,167 -- 000822,375
+Aku Steven. Pakai V.
+
+90
+000824,833 -- 000825,875
+Sampai jumpa besok.
+
+91
+000827,625 -- 000831,000
+Sejujurnya, seakan tubuhku
+mau terbangun
+
+92
+000831,333 -- 000835,167
+berjalan-jalan,
+seolah harus berjalan 10.000 langkah.
+
+93
+000836,000 -- 000840,375
+Mengerti Aku bahkan tidak sadar
+sampai aku bangun di suatu tempat.
+
+94
+000840,708 -- 000843,917
+Itu sebabnya aku coba tetap bangun
+saat malam. Apa pendapatmu
+
+95
+000844,000 -- 000846,042
+Kau tahu Kau benar.
+Maksudku, aku rasa
+
+96
+000846,125 -- 000848,625
+ada hal lebih aneh
+yang orang lakukan, tetapi...
+
+97
+000849,250 -- 000852,208
+Tidak Ya, menurutku itu agak... Maaf.
+
+98
+000853,625 -- 000855,625
+Kue kacang ekstra untuk tuan.
+
+99
+000857,000 -- 000859,333
+Jadi, tentang perempuan
+dari tempat kerjaku.
+
+100
+000859,417 -- 000901,333
+-Kami akan berkencan besok.
+-Permisi.
+
+101
+000901,417 -- 000903,208
+-Boleh foto kami di sini
+-Boleh.
+
+102
+000903,292 -- 000904,750
+-Terima kasih.
+-Kami kencan.
+
+103
+000904,833 -- 000907,333
+Aku tidak mengajaknya.
+Entah bagaimana ini terjadi.
+
+104
+000908,708 -- 000910,042
+Satu. Dua. Tiga.
+
+105
+000911,667 -- 000913,417
+-Silakan. Mari.
+-Terima kasih.
+
+106
+000913,708 -- 000915,667
+-Jangan lupa tipnya.
+-Ya.
+
+107
+000917,542 -- 000918,708
+-Sulang.
+-Terima kasih.
+
+108
+000920,042 -- 000923,875
+Jika aku ingin punya kekasih,
+suatu saat nanti,
+
+109
+000925,792 -- 000928,417
+tentu tidak boleh ada ikat kaki lagi
+di ranjang, ya
+
+110
+000928,583 -- 000931,500
+Itu semacam pertanda buruk, bukan
+
+111
+000932,458 -- 000935,583
+Kau mengerti maksudku, bukan
+Ya, kau mengerti maksudku.
+
+112
+000936,250 -- 000937,708
+Aku akan cari solusinya.
+
+113
+000940,375 -- 000942,792
+Baiklah, sebaiknya aku pulang.
+
+114
+000944,167 -- 000945,417
+Senang berbincang lagi.
+
+115
+000946,833 -- 000950,167
+Sampai jumpa lain waktu.
+
+116
+000951,542 -- 000952,917
+Baiklah, sampai nanti.
+
+117
+001018,542 -- 001021,292
+Halo! Selamat datang di Tetap Bangun.
+
+118
+001022,042 -- 001024,708
+Mari mulai dengan menyelesaikan
+teka-teki.
+
+119
+001024,792 -- 001027,667
+Teka-teki adalah cara bagus
+agar tetap terjaga.
+
+120
+001027,750 -- 001030,500
+Bosan dengan teka-teki
+Coba baca buku.
+
+121
+001032,125 -- 001034,583
+Membaca bisa membantu
+pikiran fokus dan terjaga.
+
+122
+001035,417 -- 001037,708
+Bayangkan Anda masuk dalam
+cerita itu.
+
+123
+001037,833 -- 001040,500
+Apakah ada bagian menarik
+yang Anda suka
+
+124
+001040,583 -- 001041,708
+PARA ENNEAD
+
+125
+001041,792 -- 001045,375
+Ingat, butuh lima jam untuk kembali
+menjadi diri Anda sendiri lagi.
+
+126
+001047,042 -- 001050,083
+Halo! Selamat datang di Tetap Bangun.
+
+127
+001050,167 -- 001052,458
+Mari mulai dengan menyelesaikan
+teka-teki.
+
+128
+001053,000 -- 001055,333
+Teka-teki adalah cara bagus
+agar tetap terjaga.
+
+129
+001055,417 -- 001056,417
+Bosan teka-teki
+
+130
+001056,500 -- 001057,958
+ENNEAD Konflik Dewa - Manusia
+
+131
+001058,042 -- 001058,875
+Coba baca buku.
+
+132
+001058,958 -- 001103,292
+Halo! Selamat datang di Tetap Bangun.
+
+133
+001116,667 -- 001117,792
+Astaga.
+
+134
+001123,375 -- 001126,375
+Aneh sekali. Apa yang terjadi
+
+135
+001127,167 -- 001129,125
+Apa itu tadi
+
+136
+001141,583 -- 001143,958
+- Kembali tidur, Cacing.
+-Halo
+
+137
+001146,583 -- 001150,542
+- Kau tidak seharusnya ada di sini.
+-Ya. Aku sangat setuju.
+
+138
+001152,167 -- 001155,542
+-Di mana kau
+- Serahkan tubuhnya kepada Marc.
+
+139
+001156,208 -- 001158,750
+Maaf, apa Tubuhnya Apa...
+
+140
+001200,333 -- 001204,208
+-Serahkan tubuhnya Tubuh apa
+-S i bodoh pegang kendali.
+
+141
+001218,417 -- 001219,333
+Halo.
+
+142
+001221,167 -- 001222,125
+Hai...
+
+143
+001224,042 -- 001225,042
+Sedang apa kau
+
+144
+001225,333 -- 001226,542
+Jangan!
+
+145
+001226,625 -- 001230,625
+-Jangan cuma diam. Lari.
+-Tidak, tidak, tidak! Tidak! Kumohon!
+
+146
+001245,250 -- 001246,833
+Dia kabur ke arah desa.
+
+147
+001344,375 -- 001345,792
+Hari yang begitu indah.
+
+148
+001346,333 -- 001349,167
+Serasa kita ada di surga.
+Namun, ini bukan surga, betul
+
+149
+001350,875 -- 001353,833
+Ini kegelapan. Terkadang ia
+bersembunyi di dalam hati kita.
+
+150
+001353,917 -- 001357,083
+Kita ada di sini untuk membuat dunia
+serupa dengan surga.
+
+151
+001358,583 -- 001359,875
+Siapa yang mau pertama
+
+152
+001403,792 -- 001407,500
+Kau pria yang berani.
+Menawarkan jiwamu untuk penghakiman.
+
+153
+001407,583 -- 001411,292
+Ingin melayani dewi kita
+bahkan sebelum dia bangkit.
+
+154
+001417,375 -- 001423,083
+Aku menghakimimu dalam nama Ammit
+hanya dengan sedikit kekuatannya.
+
+155
+001430,875 -- 001433,750
+Ini adalah wajah
+dari seseorang yang baik.
+
+156
+001434,083 -- 001435,042
+Terima kasih.
+
+157
+001447,458 -- 001448,875
+Siapa lagi yang mau maju
+
+158
+001449,500 -- 001452,417
+Tolong, Harrow. Aku harus tahu.
+
+159
+001453,000 -- 001455,042
+Panggil aku Arthur. Mari.
+
+160
+001455,125 -- 001459,042
+Apa kau bersedia menerima penghakiman,
+apa pun hasilnya nanti
+
+161
+001459,125 -- 001500,125
+Ya.
+
+162
+001509,000 -- 001510,042
+Maafkan aku.
+
+163
+001511,042 -- 001513,875
+Aku sudah baik sepanjang hidupku.
+
+164
+001517,083 -- 001518,250
+Aku percaya kepadamu.
+
+165
+001520,125 -- 001524,750
+Namun, penghakiman maha tahu.
+Mungkin ini sesuatu di masa depan.
+
+166
+001525,542 -- 001529,792
+Aku harap kau bisa hidup
+untuk melihat dunia yang kita bangun.
+
+167
+001530,125 -- 001532,333
+Namun, Ammit telah memutuskan.
+
+168
+001551,500 -- 001555,958
+Maaf. Ada masalah
+dengan pertukarannya.
+
+169
+001556,042 -- 001558,958
+Kami disergap.
+Seseorang membunuh dua anggota kita.
+
+170
+001559,583 -- 001600,833
+Apa dia masih di sini
+
+171
+001601,583 -- 001603,000
+Kami rasa begitu, ya.
+
+172
+001607,917 -- 001610,042
+-Sial.
+-Kau...
+
+173
+001612,250 -- 001613,458
+Aku tahu kau.
+
+174
+001614,375 -- 001616,333
+Aku Hai...
+
+175
+001617,833 -- 001618,958
+Pembunuh bayaran.
+
+176
+001619,958 -- 001624,458
+Pembunuh Bukan. Aku bukan pembunuh.
+Bukan, aku bekerja di toko suvenir.
+
+177
+001625,250 -- 001628,333
+Aku bekerja di toko suvenir.
+Namaku Steven Grant.
+
+178
+001630,208 -- 001632,375
+Aku mau pulang. Kembali ke London.
+
+179
+001632,875 -- 001636,583
+London Entah kenapa aku
+mengucapkannya seperti itu.
+
+180
+001636,667 -- 001639,792
+-Baik, Steven Grant dari toko suvenir.
+-Ya
+
+181
+001639,875 -- 001644,083
+-Bisakah kau kembalikan scarab itu
+-Apa... Apa Baiklah.
+
+182
+001644,625 -- 001647,292
+Ya, itu... Maksudmu...
+
+183
+001647,375 -- 001650,833
+-Kau tidak akan menyerahkannya.
+-Ini.
+
+184
+001655,792 -- 001659,167
+Aku sarankan kau
+untuk mengembalikannya.
+
+185
+001659,750 -- 001702,208
+Aku tidak... Aku...
+
+186
+001707,042 -- 001710,917
+Ayolah. Seakan-akan jariku beku.
+
+187
+001711,583 -- 001715,875
+Namun, coba sebentar... Entahlah,
+mungkin karena cuaca dingin.
+
+188
+001716,917 -- 001719,250
+Ambil saja. Aneh sekali.
+Maaf, tetapi...
+
+189
+001720,458 -- 001723,083
+-Aku tidak akan minta lagi.
+-Aku tidak melakukannya.
+
+190
+001723,708 -- 001725,583
+Aku tidak tahu apa yang terjadi.
+
+191
+001727,125 -- 001729,500
+Silakan. Ambil saja.
+
+192
+001729,583 -- 001731,708
+-Astaga! Kakiku bergerak sendiri.
+-Tangkap!
+
+193
+001731,792 -- 001735,875
+Aku tidak... Aku berusaha berhenti
+melangkah. Aku ingin memberikannya.
+
+194
+001735,958 -- 001738,000
+-Tunggu!
+-Tidak apa-apa.
+
+195
+001738,083 -- 001740,833
+Aku berusaha, kawan.
+Aku coba memberikannya kepadamu.
+
+196
+001743,792 -- 001744,917
+Dapat!
+
+197
+001748,125 -- 001750,875
+Tidak. Si Bodoh kembali.
+
+198
+001755,500 -- 001756,500
+Maaf.
+
+199
+001757,542 -- 001758,375
+Astaga.
+
+200
+001801,833 -- 001805,833
+Aku akan...
+Aku akan pergi saja, oke Ya.
+
+201
+001806,542 -- 001808,208
+Astaga.
+
+202
+001809,417 -- 001812,708
+Aku tahu kau marah. Aku tahu
+aku membuatmu marah. Maafkan aku, ya
+
+203
+001812,792 -- 001814,875
+Tolonglah, aku tidak...
+
+204
+001816,833 -- 001817,958
+Astaga.
+
+205
+001818,042 -- 001821,375
+- Jangan serahkan scarab itu.
+-Oke!
+
+206
+001825,625 -- 001828,875
+Itu mobilku!
+
+207
+001840,542 -- 001843,667
+Apa yang aku lakukan
+Aku tidak punya izin mengemudi.
+
+208
+001845,000 -- 001847,833
+Astaga. Sial, mereka sangat banyak.
+
+209
+001848,750 -- 001850,917
+Ini pasti mimpi.
+
+210
+001857,167 -- 001859,042
+Mereka akan membunuhku.
+
+211
+001859,125 -- 001902,292
+Ayolah, mobil kue bodoh! Cepat!
+
+212
+001922,167 -- 001926,958
+Ayolah! Lebih cepat!
+Terima kasih. Maaf. Terima kasih.
+
+213
+001928,250 -- 001929,250
+Manis sekali.
+
+214
+001947,250 -- 001952,458
+Tunggu! Maaf soal kuenya. Jangan!
+
+215
+002000,083 -- 002003,833
+Bangun, Marc! Kalau dia kehilangan
+scarab itu, aku bunuh kalian berdua.
+
+216
+002003,917 -- 002005,667
+Aku tidak mengerti ada apa ini!
+
+217
+002005,750 -- 002007,292
+-Truk, Bodoh.
+-Apa
+
+218
+002007,375 -- 002008,417
+Truk!
+
+219
+002023,458 -- 002024,375
+Tidak!
+
+220
+002026,583 -- 002028,042
+Tidak!
+
+221
+002038,292 -- 002039,208
+Astaga.
+
+222
+002041,000 -- 002042,375
+Aku mengemudi terbalik.
+
+223
+002045,500 -- 002048,792
+-Apa dia baru saja melempar pistolnya
+-Aku tidak tahu harus apa.
+
+224
+002048,875 -- 002050,750
+Maka pergilah, Parasit!
+
+225
+002058,333 -- 002101,250
+Ayolah, ayolah.
+
+226
+002112,917 -- 002114,083
+Ya ampun!
+
+227
+002146,042 -- 002148,958
+Apa yang diimpikan Neanderthal.
+Para paleoantropolog...
+
+228
+002149,917 -- 002151,833
+Apa kabar, Gus Apa tidurmu nyenyak
+
+229
+002155,125 -- 002156,917
+Kira-kira apa yang ikan impikan
+
+230
+002215,375 -- 002217,625
+Apa-apaan... Ikan.
+
+231
+002219,208 -- 002220,667
+Apa maksudmu, tumbuh lagi
+
+232
+002220,750 -- 002223,708
+Kemarin, ikan ini punya satu sirip.
+Sudah begitu sejak awal.
+
+233
+002223,792 -- 002225,875
+-Hari ini, apa yang kau lihat
+-Ada dua...
+
+234
+002225,958 -- 002229,000
+Dua sirip! Ya, maaf.
+Namun, sekarang ada dua sirip.
+
+235
+002229,083 -- 002230,875
+Jadi, apakah itu normal, atau...
+
+236
+002230,958 -- 002232,542
+Kalau kau mau tukar, silakan.
+
+237
+002232,625 -- 002234,625
+Namun, seperti kataku kemarin,
+mereka...
+
+238
+002234,708 -- 002236,583
+Apa Kemarin aku tidak ke sini.
+
+239
+002236,667 -- 002237,708
+Ya, tentu saja.
+
+240
+002237,792 -- 002240,667
+Dengar, aku sudah bilang, mereka semua
+punya dua sirip.
+
+241
+002240,750 -- 002242,625
+Aku tidak peduli apa kata film Nemo.
+
+242
+002242,708 -- 002245,292
+Cari saja toko hewan
+dengan ikan cacat.
+
+243
+002245,375 -- 002248,208
+-Aku tidak ada waktu.
+-Tunggu, apa jam itu benar
+
+244
+002248,292 -- 002249,917
+Tidak mungkin, aku baru bangun.
+
+245
+002250,000 -- 002253,750
+Apa kau gila Ikan salah, jam salah.
+Ada yang salah denganmu.
+
+246
+002254,292 -- 002256,708
+Sial, aku ada kencan.
+Maaf, aku ada kencan.
+
+247
+002304,542 -- 002305,667
+Baiklah.
+
+248
+002310,875 -- 002312,125
+Kau terlihat konyol.
+
+249
+002317,042 -- 002318,917
+Apa Anda masih menunggu
+
+250
+002320,125 -- 002322,375
+Ya. Tidak terlihat begitu baik, ya
+
+251
+002337,500 -- 002339,458
+Nekat. Baru telepon sekarang
+
+252
+002340,208 -- 002345,792
+Apa Apa maksudmu Aku sudah
+di restoran. Waktunya makan steik.
+
+253
+002346,708 -- 002349,792
+Ya, aku makan steik sendirian,
+terima kasih. Dua hari lalu.
+
+254
+002350,792 -- 002353,417
+Apa Aku kira kita setuju
+di hari Jumat Hari ini.
+
+255
+002354,125 -- 002356,292
+Ya. Selamat datang di hari Minggu.
+
+256
+002357,208 -- 002402,083
+Ayolah. Setelah hari
+Kamis masih hari Jumat, bukan
+
+257
+002402,417 -- 002405,250
+Tidak mengubah fakta kalau ini
+hari Minggu,
+
+258
+002405,333 -- 002408,417
+dan itu artinya hapus nomorku. Dah.
+
+259
+002408,792 -- 002409,917
+Namun...
+
+260
+002413,250 -- 002415,750
+Maaf, ini hari apa
+
+261
+002416,833 -- 002418,750
+-Minggu, Pak.
+-Tidak.
+
+262
+002419,333 -- 002420,167
+Benarkah...
+
+263
+002420,583 -- 002421,458
+Sungguh
+
+264
+002422,000 -- 002424,667
+Dapurnya akan tutup sebentar lagi.
+
+265
+002427,292 -- 002430,208
+Oke. Kau tahu
+
+266
+002432,000 -- 002433,250
+Aku mau pesan satu steik.
+
+267
+002434,083 -- 002436,625
+Tentu saja. Bagian daging mana
+yang Anda mau
+
+268
+002438,333 -- 002439,333
+Baik.
+
+269
+002441,000 -- 002444,083
+Aku mau bagian terbaik dari...
+
+270
+002445,042 -- 002447,083
+Steiknya. Itu bagian yang aku mau.
+
+271
+002448,042 -- 002451,708
+Potongan has dalam.
+Lalu tingkat kematangannya
+
+272
+002452,792 -- 002455,417
+Baik, ya. Sangat baik.
+
+273
+002457,333 -- 002500,208
+-Saya catat matang sempurna.
+-Oke. Baiklah.
+
+274
+002500,292 -- 002503,083
+Ya. Kedengarannya enak.
+
+275
+002512,083 -- 002515,125
+Ya, Ibu tahu, aku rasa dia menyukaiku.
+
+276
+002515,500 -- 002518,292
+Dia suka sekali bunganya. Ya.
+
+277
+002518,750 -- 002521,500
+Sepertinya aku akan segera
+mengenalkan dia kepada Ibu.
+
+278
+002521,583 -- 002525,042
+Ya, menurutku Ibu akan menyukainya.
+Selera humornya sangat bagus.
+
+279
+002525,125 -- 002529,792
+Aku akan ceritakan lagi besok.
+Aku sayang Ibu. Dah.
+
+280
+002608,917 -- 002610,500
+Apa kau mau
+
+281
+002614,042 -- 002615,042
+Oke.
+
+282
+002616,125 -- 002617,917
+Kau boleh makan sedikit.
+
+283
+002627,667 -- 002630,042
+Kalau kau Gus,
+maka aku adalah Ratu Sheba.
+
+284
+002646,917 -- 002647,875
+Apa ini
+
+285
+002723,417 -- 002724,583
+Ada apa ini
+
+286
+002750,667 -- 002751,792
+Itu dia.
+
+287
+002753,083 -- 002754,250
+Baiklah.
+
+288
+002754,792 -- 002757,750
+Panggilan Terlewat
+
+289
+002800,792 -- 002801,750
+Layla.
+
+290
+002807,708 -- 002808,708
+Panggilan Masuk
+Layla
+
+291
+002817,792 -- 002819,167
+Ya
+
+292
+002819,250 -- 002820,708
+Astaga, kau masih hidup.
+
+293
+002820,792 -- 002823,208
+-Ya, tentu saja.
+-Cuma itu
+
+294
+002823,792 -- 002826,000
+Aku menghubungi
+dan menunggu berbulan-bulan.
+
+295
+002826,083 -- 002828,500
+Apa tidak bisa mengabari
+kalau kau masih hidup
+
+296
+002829,125 -- 002830,667
+Aku kira terjadi sesuatu.
+
+297
+002830,750 -- 002832,958
+Kau di mana Kau ke mana saja
+
+298
+002834,792 -- 002836,208
+Halo Kau...
+
+299
+002837,083 -- 002839,625
+Maaf, aku baru temukan
+ponsel ini di apartemenku,
+
+300
+002839,708 -- 002842,333
+dan aku tidak tahu ini milik siapa.
+
+301
+002842,417 -- 002844,292
+-Ada apa dengan aksenmu
+-Apa
+
+302
+002844,917 -- 002846,250
+Ada apa ini
+
+303
+002846,333 -- 002849,250
+Maaf, menurutmu aku ini siapa
+
+304
+002849,333 -- 002852,333
+Apa maksudmu, siapa
+Ada apa denganmu, Marc
+
+305
+002854,083 -- 002855,542
+Kau panggil aku siapa
+
+306
+002857,125 -- 002858,083
+Siapa ini
+
+307
+002900,000 -- 002902,125
+Kenapa kau memanggilku Marc
+
+308
+002904,125 -- 002905,125
+Halo
+
+309
+002907,917 -- 002909,583
+Tidak, tidak, tidak. Ayolah.
+
+310
+002913,083 -- 002914,083
+Steven.
+
+311
+002917,542 -- 002918,625
+Steven.
+
+312
+002921,917 -- 002924,250
+-Halo
+-Steven.
+
+313
+002927,208 -- 002930,250
+-Kau harus berhenti.
+-Siapa itu
+
+314
+002936,458 -- 002939,500
+- Kau membahayakan dirimu sendiri.
+-Tidak, Kawan.
+
+315
+002939,583 -- 002941,292
+Seseorang menjahiliku.
+
+316
+003002,417 -- 003003,292
+Astaga.
+
+317
+003020,792 -- 003021,875
+Steven.
+
+318
+003023,458 -- 003025,042
+Berhenti mencari.
+
+319
+003030,875 -- 003032,417
+Astaga. Ada apa ini
+
+320
+003032,958 -- 003033,917
+Ada apa ini
+
+321
+003037,208 -- 003038,458
+Astaga!
+
+322
+003109,750 -- 003113,667
+Tidak, Lantai G. Ayo. Lantai dasar.
+
+323
+003138,167 -- 003139,583
+Tahan pintunya.
+
+324
+003140,167 -- 003141,458
+Terima kasih.
+
+325
+003151,750 -- 003152,750
+Hai.
+
+326
+003153,292 -- 003154,750
+-Hai.
+-Apa kabar
+
+327
+003155,417 -- 003156,750
+Baik. Terima kasih.
+
+328
+003157,250 -- 003159,583
+Aku kehilangan lensa kontak.
+
+329
+003200,750 -- 003201,792
+Semoga ketemu.
+
+330
+003203,458 -- 003205,333
+Masalah kelistrikan gedung ini, ya
+
+331
+003205,417 -- 003206,917
+Selalu sama, bukan
+
+332
+003207,708 -- 003209,917
+-Apa kita kembali ke lantai lima
+-Ya, lima.
+
+333
+003210,000 -- 003212,458
+Temanku Claire tinggal di sini.
+Aku berkunjung.
+
+334
+003213,167 -- 003214,292
+Dia menungguku.
+
+335
+003217,333 -- 003218,500
+Apa yang terjadi
+
+336
+003250,250 -- 003253,042
+Astaga. Dia nyata.
+
+337
+003302,333 -- 003303,667
+Hei, J.B., apa kabar
+
+338
+003303,750 -- 003306,125
+-Apa kabar, Scotty Baik-baik saja.
+-Steven.
+
+339
+003306,208 -- 003309,000
+-Kau sedang nonton berang-berang
+-Mereka imut sekali
+
+340
+003309,083 -- 003310,458
+Tentu, ya. Jadi begini,
+
+341
+003310,542 -- 003313,750
+aku butuh kau berjaga-jaga,
+karena aku diikuti orang.
+
+342
+003313,833 -- 003316,250
+-Benarkah
+-Ya. Bisakah kau,
+
+343
+003316,333 -- 003319,500
+-tidak membiarkan orang masuk
+-Ini museum. Itu mustahil.
+
+344
+003319,583 -- 003321,750
+Maksudku, siapa pun yang mencurigakan.
+
+345
+003321,833 -- 003323,708
+Siapa pun bisa masuk. Ini gratis.
+
+346
+003323,792 -- 003326,125
+-Ya. Orang ini...
+-Bisa kau bawa ini ke bawah
+
+347
+003326,208 -- 003327,667
+-Tunggu. Aku tahu.
+-Ini ibuku.
+
+348
+003327,750 -- 003329,833
+-Oke. Sebentar.
+-Bawa ini sekarang.
+
+349
+003329,917 -- 003332,625
+-Tolong aku...
+-Bisa kau bawa ke bawah sekarang
+
+350
+003332,958 -- 003335,250
+Astaga. Pria itu tadi ada
+di dalam bus.
+
+351
+003335,333 -- 003337,500
+Aku tidak peduli. Bawa ini ke bawah...
+
+352
+003337,583 -- 003340,875
+Bisakah kau... Tolong, sebentar saja.
+
+353
+003340,958 -- 003342,833
+Ya Terima kasih, Donna.
+
+354
+003343,708 -- 003345,667
+Kau tetap mengurus inventaris
+malam ini.
+
+355
+003400,708 -- 003402,917
+-Jadi, kau memang bekerja di sini.
+-Astaga.
+
+356
+003403,000 -- 003407,417
+Aku kira Steven Grant cuma samaran.
+Aku kaget menemukanmu di sini.
+
+357
+003407,500 -- 003410,292
+Permisi, Ronnie.
+Pria ini mengikutiku terus.
+
+358
+003410,375 -- 003412,083
+-Entah siapa...
+-Terpujilah Ammit.
+
+359
+003413,458 -- 003417,250
+-Terima kasih.
+-Ronnie, kau bagian dari mereka
+
+360
+003419,708 -- 003422,625
+Kawan, aku tidak punya kumbangmu itu.
+Sumpah. Aku...
+
+361
+003422,708 -- 003427,042
+Bukan. Scarab itu bukan milikku.
+Itu miliknya. Apa kau tahu Ammit
+
+362
+003428,583 -- 003430,958
+Apa aku tahu Ammit... Tidak
+secara personal.
+
+363
+003432,167 -- 003434,458
+Dewi Mesir, bukan
+
+364
+003434,750 -- 003436,250
+Hakim pertama di dunia.
+
+365
+003436,333 -- 003439,542
+Dia hanya menjadi hakim
+bagi para penjahat.
+
+366
+003439,625 -- 003441,792
+-Ya.
+-Dia mulai resah harus menunggu
+
+367
+003441,875 -- 003444,458
+para pendosa berbuat jahat
+sebelum dihukum.
+
+368
+003444,542 -- 003447,250
+Apa kau baru mencabut ilalang
+saat bunga mawar layu
+
+369
+003447,375 -- 003448,750
+Aku tidak akan begitu.
+
+370
+003448,833 -- 003452,458
+Keadilan Ammit melingkupi seluruh
+kehidupan kita.
+
+371
+003452,542 -- 003454,500
+-Baik.
+-Masa lalu, kini, dan masa depan.
+
+372
+003454,583 -- 003456,708
+Dia tahu apa yang sudah,
+dan akan diperbuat
+
+373
+003456,792 -- 003459,833
+Baiklah. Oke. Ya, pasti bagian itu
+tidak tertulis di buku.
+
+374
+003507,292 -- 003508,292
+Coba pikir...
+
+375
+003509,125 -- 003511,792
+Kalau Ammit telah dibangkitkan,
+dia pasti sudah
+
+376
+003511,875 -- 003514,375
+mencegah Hitler dan kehancuran
+yang dia bawa.
+
+377
+003515,042 -- 003518,583
+Nero, pembantaian Armenia, Pol Pot.
+
+378
+003518,667 -- 003521,042
+-Bukan orang baik.
+-Namun, dia dikhianati.
+
+379
+003521,125 -- 003524,792
+-Benarkah
+-Oleh dewa-dewa pemalas itu.
+
+380
+003525,958 -- 003527,333
+Dan oleh avatarnya sendiri.
+
+381
+003527,417 -- 003530,125
+Avatars. Makhluk biru.
+Aku suka film itu.
+
+382
+003530,208 -- 003532,417
+-Dengan avatar, maksudku...
+-Maksudmu anime
+
+383
+003532,500 -- 003535,958
+-Steven. Hentikan.
+-Apa kau akan membunuhku
+
+384
+003543,375 -- 003544,708
+Sangat bising, bukan
+
+385
+003545,875 -- 003548,250
+Suara-suara di kepalamu.
+
+386
+003549,542 -- 003553,250
+Resah, selamanya tidak puas.
+
+387
+003553,833 -- 003556,292
+Bagaimanapun kau coba
+penuhi keinginannya,
+
+388
+003557,292 -- 003600,208
+ia melahapmu sampai tidak ada
+yang tersisa
+
+389
+003601,083 -- 003602,583
+selain kehampaan.
+
+390
+003603,208 -- 003605,292
+Makin kau meminta bantuan,
+
+391
+003605,375 -- 003608,583
+kau makin terdengar
+seperti orang gila.
+
+392
+003609,833 -- 003611,292
+Aku tidak bisa membantumu.
+
+393
+003612,167 -- 003614,083
+Aku mencoba membantumu.
+
+394
+003615,833 -- 003618,000
+Aku lihat kau membunuh wanita itu
+di gunung.
+
+395
+003618,708 -- 003621,875
+Aku cuma tunjukkan apa yang jutaan
+orang lain akan pelajari.
+
+396
+003623,292 -- 003624,750
+Apa kau mau tahu kebenaran
+
+397
+003645,708 -- 003647,333
+Ada kekacauan di dalammu.
+
+398
+003647,958 -- 003649,042
+Ada apa
+
+399
+003656,208 -- 003657,292
+Biarkan dia pergi.
+
+400
+003734,792 -- 003736,083
+Sial.
+
+401
+003740,958 -- 003743,167
+Halo Donna
+
+402
+003744,125 -- 003745,083
+J.B.
+
+403
+003745,958 -- 003748,125
+Peliharaan diperbolehkan masuk museum.
+
+404
+003749,375 -- 003751,125
+Kemari, Kawan.
+
+405
+003753,083 -- 003754,167
+Halo
+
+406
+003756,000 -- 003758,958
+Di mana kau, makhluk kecil
+
+407
+003805,958 -- 003807,417
+Apa yang kau lakukan, Steven
+
+408
+003809,208 -- 003810,250
+Kemari, Kawan.
+
+409
+003812,875 -- 003813,917
+Halo
+
+410
+003819,042 -- 003820,333
+Klasik.
+
+411
+003821,667 -- 003823,375
+Aku mendengarmu,
+kau mendengarku
+
+412
+003829,500 -- 003830,958
+Ya.
+
+413
+003854,125 -- 003857,375
+Steven Grant dari toko suvenir.
+
+414
+003857,458 -- 003901,250
+Kembalikan scarab itu dan kau
+tidak akan dicabik-cabik.
+
+415
+003930,125 -- 003931,417
+Ya ampun!
+
+416
+003935,333 -- 003936,542
+Astaga!
+
+417
+003939,625 -- 003940,625
+Astaga.
+
+418
+003942,167 -- 003943,333
+Steven...
+
+419
+003944,000 -- 003945,917
+Steven, aku bisa selamatkan kita.
+
+420
+003947,917 -- 003950,083
+Namun, jangan melawanku kali ini.
+
+421
+003951,000 -- 003953,292
+Kau harus memberiku kendali. Mengerti
+
+422
+003953,375 -- 003955,958
+Tidak, apa... Kendali apa
+Apa yang kau bicarakan
+
+423
+003956,042 -- 003959,417
+Makhluk itu akan menerobos pintu.
+Kita kehabisan waktu.
+
+424
+003959,500 -- 004001,917
+-Baiklah, hei. Dengarkan aku.
+-Sialan! Tidak!
+
+425
+004002,000 -- 004003,083
+-Lihat aku.
+-Tidak!
+
+426
+004003,167 -- 004004,500
+-Lihat.
+-Kau tidak nyata.
+
+427
+004004,583 -- 004007,042
+-Ini nyata. Aku nyata.
+-Tidak! Kau tidak nyata.
+
+428
+004007,125 -- 004010,083
+-Ini tidak nyata.
+-Ya. Steven. Berikan aku kendali.
+
+429
+004010,167 -- 004011,583
+Ini satu-satunya cara.
+
+430
+004011,708 -- 004014,792
+-Astaga. Aku akan mati.
+-Kau... Steven.
+
+431
+004014,875 -- 004017,458
+-Aku akan mati. Aku akan mati.
+-Lihat aku.
+
+432
+004018,375 -- 004019,458
+Kau tidak akan mati.
+
+433
+004021,542 -- 004022,792
+Kita akan selamat.
+
+434
+004123,042 -- 004125,958
+BERDASARKAN KOMIK MARVEL
+
+435
+004524,042 -- 004526,292
+Untuk informasi mengenai
+kesehatan mental,
+
+436
+004526,375 -- 004529,125
+kunjungi Aliansi Nasional
+Kesehatan Mental di NAMI.org
+
+437
+004529,208 -- 004531,208
+Terjemahan subtitle oleh
+Robby Geosandi
+
